@@ -19,13 +19,13 @@
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>
             <version>5.23.2</version>
-            <scope>test</scope>
+            <scope>TestHomePage</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
-            <scope>test</scope>
+            <scope>TestHomePage</scope>
         </dependency>
         <dependency>
             <groupId>com.codeborne</groupId>
